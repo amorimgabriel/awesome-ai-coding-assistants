@@ -1,15 +1,15 @@
 # 🤖 Awesome AI Coding Assistants
 
-> 🇧🇷 [Versão em Português](README.pt-br.md)
+> 🇺🇸 [English version](README.md)
 
-> A centralized map of references for configuring AI coding assistants —
-> skills, instructions, prompts, agents, rules and SDD tools for Claude, Copilot, Cursor, Gemini and others.
->
-> Want to add something? Open a PR!
+Um mapa centralizado de referências para configurar AI coding assistants —
+skills, instructions, prompts, agents, rules e ferramentas de SDD para Claude, Copilot, Cursor, Gemini e outros.
+
+Quer adicionar algo? Abre um PR!
 
 ---
 
-## 📍 Table of Contents
+## 📍 Índice
 
 - [Tags](#-tags)
 - [Skills](#-skills)
@@ -17,16 +17,16 @@
 - [Agents](#-agents)
 - [System Prompts](#-system-prompts)
 - [Prompts & Templates](#-prompts--templates)
-- [Tools](#-tools)
+- [Ferramentas](#-ferramentas)
 - [AI Coding Assistants](#-ai-coding-assistants)
-- [Content](#-content)
+- [Conteúdo](#-conteúdo)
 
 ---
 
 ## 🏷️ Tags
 
-Tags indicate which AI coding assistants each resource officially supports.
-Only added when official support is confirmed.
+As tags indicam quais AI coding assistants cada recurso suporta oficialmente.
+Só são adicionadas quando o suporte é confirmado.
 
 ### Assistants
 | Tag | Assistant |
@@ -39,195 +39,190 @@ Only added when official support is confirmed.
 | `windsurf` | [Windsurf](https://windsurf.com/) — Codeium |
 | `opencode` | [OpenCode](https://opencode.ai/) |
 
-### Pricing
-| Tag | Meaning |
-|-----|---------|
-| `free` | Has a free tier |
-| `paid` | Paid only |
+### Preço
+| Tag | Significado |
+|-----|-------------|
+| `free` | Tem plano gratuito |
+| `paid` | Somente pago |
 
 ---
 
 ## 🧩 Skills
 
 - **[VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)** `claude` `cursor` `copilot` `gemini` `codex`  
-  > The largest community-driven collection with 1000+ skills from official teams and contributors
+  > A maior coleção da comunidade com 1000+ skills de times oficiais e contribuidores
 
 - **[sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)** `claude` `cursor` `codex` `gemini`  
-  > 1400+ installable skills via CLI with bundles and workflows
+  > 1400+ skills instaláveis via CLI com bundles e workflows
 
 - **[travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)** `claude`  
-  > Curated skills and resources focused on Claude Code workflows
+  > Skills e recursos focados em workflows com Claude Code
 
 - **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** `claude`  
-  > Skills and tools for customizing Claude AI workflows
+  > Skills e ferramentas para customizar workflows com Claude
 
 - **[skillsdirectory/awesome-ai-skills](https://github.com/skillsdirectory/awesome-ai-skills)** `claude` `cursor` `copilot` `windsurf`  
-  > Community-curated skills, system prompts and agent rules
+  > Skills, system prompts e agent rules curados pela comunidade
 
 - **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** `claude` `cursor` `copilot`  
-  > Validated registry with static analysis in CI/CD — security and quality focused
+  > Registry validado com análise estática no CI/CD — foco em segurança e qualidade
 
-### By Platform
+### Por Plataforma
 
 - **[new-silvermoon/awesome-android-agent-skills](https://github.com/new-silvermoon/awesome-android-agent-skills)** `claude` `copilot` `cursor` `gemini`  
-  > Skills for modern Android: Kotlin, Jetpack Compose, KMP
+  > Skills para Android moderno: Kotlin, Jetpack Compose, KMP
 
 - **[vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)** `claude` `codex`  
-  > Official Vercel skills: React, Next.js, performance and caching
+  > Skills oficiais da Vercel: React, Next.js, performance e caching
 
 - **[callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills)**  
-  > Agent-optimized skills for React Native
+  > Skills para React Native otimizadas para AI coding assistants
 
 - **[hamen/material-3-skill](https://github.com/hamen/material-3-skill)**  
-  > Reference skill for Material Design 3
+  > Skill de referência para Material Design 3
 
 - **[jdubois/dr-jskill](https://github.com/jdubois/dr-jskill)** `claude` `copilot`  
-  > Skill for creating Spring Boot applications
+  > Skill para criação de aplicações Spring Boot
 
 ---
 
 ## 📋 Instructions & Rules
 
 - **[PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)** `cursor`  
-  > Largest collection of `.cursorrules` files organized by framework and language
+  > Maior coleção de arquivos `.cursorrules` organizados por framework e linguagem
 
 - **[tugkanboz/awesome-cursorrules](https://github.com/tugkanboz/awesome-cursorrules)** `cursor`  
-  > Modern rules in Cursor's MDC format
+  > Rules modernas no formato MDC do Cursor
 
 - **[EdenFork/awesome-copilot-instructions](https://github.com/EdenFork/awesome-copilot-instructions)** `copilot`  
-  > Curated list of `copilot-instructions.md` files
+  > Lista curada de arquivos `copilot-instructions.md`
 
 - **[instructa/ai-prompts](https://github.com/instructa/ai-prompts)** `cursor` `copilot` `windsurf`  
-  > Ready-to-use prompts and rules for Cursor, Cline, Windsurf and GitHub Copilot
+  > Prompts e rules prontos para Cursor, Cline, Windsurf e GitHub Copilot
 
 ---
 
 ## 🤖 Agents
 
 - **[github/awesome-copilot](https://github.com/github/awesome-copilot)** `copilot`  
-  > Official GitHub repo — community-contributed instructions, agents, skills and configs
+  > Repo oficial do GitHub — instructions, agents, skills e configs contribuídos pela comunidade
 
 - **[Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents)** `copilot`  
-  > Instructions, prompts, skills, MCPs and agent `.md` files for Copilot
+  > Instructions, prompts, skills, MCPs e arquivos agent `.md` para Copilot
 
 - **[jaktestowac/awesome-copilot-for-testers](https://github.com/jaktestowac/awesome-copilot-for-testers)** `copilot`  
-  > Instructions and prompts focused on test automation
+  > Instructions e prompts focados em automação de testes
 
 ---
 
 ## 🧠 System Prompts
 
 - **[dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts)**  
-  > Reverse-engineered system prompts from real tools: Claude Code, v0, Lovable, Manus, Windsurf
+  > System prompts reais de ferramentas: Claude Code, v0, Lovable, Manus, Windsurf
 
 - **[EliFuzz/awesome-system-prompts](https://github.com/EliFuzz/awesome-system-prompts)**  
-  > System prompts and tool definitions from Claude Code, Cursor, Devin, Kiro, Codex and others
+  > System prompts e tool definitions de Claude Code, Cursor, Devin, Kiro, Codex e outros
 
 - **[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)**  
-  > Full prompts from 25+ tools: Replit, Windsurf, Warp, Xcode AI and more
+  > Prompts completos de 25+ ferramentas: Replit, Windsurf, Warp, Xcode AI e mais
 
 - **[Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts)** `claude`  
-  > All parts of Claude Code's system prompt, updated per version
+  > Todas as partes do system prompt do Claude Code, atualizado por versão
 
 ---
 
 ## 📝 Prompts & Templates
 
 - **[promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/awesome-prompt-engineering)**  
-  > Hand-curated prompt engineering resources for GPT, Claude, PaLM and others
+  > Recursos de prompt engineering para GPT, Claude, PaLM e outros
 
 - **[jwadow/agentic-prompts](https://github.com/jwadow/agentic-prompts)**  
-  > Ready-to-use templates for prompt engineering and agent personas
+  > Templates prontos para prompt engineering e personas de agentes
 
 - **[baz-scm/awesome-reviewers](https://github.com/baz-scm/awesome-reviewers)**  
-  > Ready-to-use system prompts for agentic code review
+  > System prompts prontos para code review agentic
 
 ---
 
-## 🛠️ Tools
+## 🛠️ Ferramentas
 
 ### Spec Driven Development
 
 - **[github/spec-kit](https://github.com/github/spec-kit)**  
-  > Official GitHub SDD toolkit — slash commands for each phase: specify, plan, tasks, implement. Cross-agent by default
+  > Toolkit oficial do GitHub para SDD — slash commands por fase: specify, plan, tasks, implement. Cross-agent por padrão
 
 - **[Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)**  
-  > SDD for AI coding assistants — define the spec, AI implements
+  > SDD para AI coding assistants — define a spec, a IA implementa
 
 - **[kiro.dev](https://kiro.dev/)** `free` `paid`  
-  > Agentic IDE by AWS with native SDD — requirements, design and tasks before any code is generated
+  > IDE agentic da AWS com SDD nativo — requisitos, design e tarefas antes de qualquer código
 
 - **[tessl.io](https://tessl.io/)**  
-  > Spec-as-source platform — specs are the primary artifact, agents generate code from them. Includes a registry of 10,000+ pre-built specs for open source libraries
+  > Plataforma spec-as-source — specs são o artefato principal, agentes geram o código a partir delas. Inclui registry com 10.000+ specs para libs open source
 
 - **[aabs/awesome-specification-driven-development](https://github.com/aabs/awesome-specification-driven-development)**  
-  > Awesome list of SDD resources
+  > Awesome list de recursos de SDD
 
 - **[OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)**  
-  > Generate SDK, stubs and docs from OpenAPI Spec (v2, v3)
+  > Geração de SDK, stubs e docs a partir de OpenAPI Spec (v2, v3)
 
 - **[cnoe-io/openapi-mcp-codegen](https://github.com/cnoe-io/openapi-mcp-codegen)**  
-  > Generate MCP servers from OpenAPI specs — connect any API to AI assistants
+  > Gera servidores MCP a partir de specs OpenAPI — conecta qualquer API a AI assistants
 
 ### Skills & Config
 
 - **[gotalab/skillport](https://github.com/gotalab/skillport)**  
-  > CLI + MCP to manage and serve skills across any AI agent
+  > CLI + MCP para gerenciar e servir skills em qualquer AI agent
 
 - **[FrancyJGLisboa/agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator)**  
-  > Turn any workflow into a SKILL.md installable on 14+ tools
+  > Transforma qualquer workflow em SKILL.md instalável em 14+ ferramentas
 
 ---
 
 ## 💻 AI Coding Assistants
 
 - **[Claude Code](https://claude.ai/code)** `claude` `free` `paid`  
-  > Anthropic's official CLI for Claude — agentic coding in the terminal
+  > CLI oficial da Anthropic para Claude — desenvolvimento agentic no terminal
 
 - **[opencode-ai/opencode](https://github.com/opencode-ai/opencode)** `opencode` `free`  
-  > Open-source AI coding agent built for the terminal — not coupled to any provider
+  > AI coding agent open-source para o terminal — não está preso a nenhum provider
 
 - **[awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)**  
-  > Curated plugins, themes, agents and resources for OpenCode
+  > Plugins, temas, agents e recursos curados para OpenCode
 
 - **[GitHub Copilot](https://github.com/features/copilot)** `copilot` `free` `paid`  
-  > AI coding assistant integrated into VS Code, JetBrains and more
+  > AI coding assistant integrado ao VS Code, JetBrains e outros
 
 - **[Cursor](https://www.cursor.com/)** `cursor` `free` `paid`  
-  > AI-first code editor — fork of VS Code with deep AI integration
+  > Editor de código com IA — fork do VS Code com integração profunda de IA
 
 - **[Windsurf](https://windsurf.com/)** `windsurf` `free` `paid`  
-  > Agentic IDE by Codeium
+  > IDE agentic da Codeium
 
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** `gemini` `free`  
-  > Google's open-source AI agent for the terminal
+  > AI agent open-source do Google para o terminal
 
 ---
 
-## 📺 Content
+## 📺 Conteúdo
 
 ### CodandoTV
 - **[Como usar o Claude Code de maneira simples - Planos, Skills e dicas](https://www.youtube.com/watch?v=Jjyk3so4Ii0&t=30s)**
 - **[CLAUDE PASSOU O CHATGPT? A Guerra das IAs Está Cada Dia Mais Louca](https://www.youtube.com/watch?v=FsWIN6pHpnQ)**
 
-> More content coming → [youtube.com/@CodandoTV](https://www.youtube.com/@CodandoTV)
+> Mais conteúdo em breve → [youtube.com/@CodandoTV](https://www.youtube.com/@CodandoTV)
 
-### Community
-> Have a video, post or talk on the topic? Open a PR and add it here!
-
----
-
-> Contributions welcome! Open a PR to add new repos, tools or content.
+### Comunidade
+> Tem um vídeo, post ou talk sobre o tema? Abre um PR e adiciona aqui!
 
 ---
 
-## 📺 Enjoying this project?
+> Contribuições são bem-vindas! Abre um PR para adicionar novos repos, ferramentas ou conteúdo.
 
-If this repo was useful to you, consider subscribing to **CodandoTV** — where we talk about mobile development, AI and much more.
+---
+
+## 📺 Gostou do projeto?
+
+Se esse repo foi útil pra você, considera se inscrever no canal **CodandoTV** — onde falamos sobre desenvolvimento mobile, IA e muito mais.
 
 [![YouTube](https://img.shields.io/badge/YouTube-CodandoTV-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@CodandoTV)
-
-## Contributors
-
-This project exists thanks to all the people who contribute.
-<a href="https://github.com/codandotv/awesome-ai-coding-assistants"><img src="https://opencollective.com/awesome-ai-coding-assistants/contributors.svg?width=890&button=false" /></a>
