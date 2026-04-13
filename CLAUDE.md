@@ -87,6 +87,20 @@ Format for videos:
 
 ---
 
+## Bilingual Files
+
+This repo has English and Portuguese (PT-BR) versions of key files:
+
+| English | Portuguese |
+|---------|-----------|
+| `README.md` | `README.pt-br.md` |
+| `CONTRIBUTING.md` | `CONTRIBUTING.pt-br.md` |
+
+**Rule: whenever you update the English version, you MUST update the PT-BR version in the same session.**
+Never leave the two versions out of sync.
+
+---
+
 ## What NOT to add
 
 - AI frameworks (LangChain, LlamaIndex, etc.)
