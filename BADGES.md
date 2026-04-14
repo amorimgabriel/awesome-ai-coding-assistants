@@ -23,6 +23,7 @@ Always use these exact badge URLs — do not create new ones.
 |-------|----------|
 | ![free](https://img.shields.io/badge/free-22C55E?style=flat) | `![free](https://img.shields.io/badge/free-22C55E?style=flat)` |
 | ![paid](https://img.shields.io/badge/paid-EF4444?style=flat) | `![paid](https://img.shields.io/badge/paid-EF4444?style=flat)` |
+| ![open source](https://img.shields.io/badge/open_source-0EA5E9?style=flat) | `![open source](https://img.shields.io/badge/open_source-0EA5E9?style=flat)` |
 
 ---
 
@@ -39,6 +40,7 @@ Always use these exact badge URLs — do not create new ones.
 | `opencode` | `#7C3AED` | Purple |
 | `free` | `#22C55E` | Green = go |
 | `paid` | `#EF4444` | Red = cost |
+| `open source` | `#0EA5E9` | Sky blue = open |
 
 ---
 

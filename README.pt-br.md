@@ -44,6 +44,7 @@ Só são adicionadas quando o suporte é confirmado. Veja [BADGES.md](BADGES.md)
 |-----|-------------|
 | ![free](https://img.shields.io/badge/free-22C55E?style=flat) | Tem plano gratuito |
 | ![paid](https://img.shields.io/badge/paid-EF4444?style=flat) | Somente pago |
+| ![open source](https://img.shields.io/badge/open_source-0EA5E9?style=flat) | Código aberto |
 
 ---
 
@@ -148,33 +149,33 @@ Só são adicionadas quando o suporte é confirmado. Veja [BADGES.md](BADGES.md)
 
 ### Spec Driven Development
 
-- **[github/spec-kit](https://github.com/github/spec-kit)**  
+- **[github/spec-kit](https://github.com/github/spec-kit)** ![open source](https://img.shields.io/badge/open_source-0EA5E9?style=flat)  
   > Toolkit oficial do GitHub para SDD — slash commands por fase: specify, plan, tasks, implement. Cross-agent por padrão
 
-- **[Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)**  
+- **[Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)** ![open source](https://img.shields.io/badge/open_source-0EA5E9?style=flat)  
   > SDD para AI coding assistants — define a spec, a IA implementa
 
 - **[kiro.dev](https://kiro.dev/)** ![free](https://img.shields.io/badge/free-22C55E?style=flat) ![paid](https://img.shields.io/badge/paid-EF4444?style=flat)  
   > IDE agentic da AWS com SDD nativo — requisitos, design e tarefas antes de qualquer código
 
-- **[tessl.io](https://tessl.io/)**  
+- **[tessl.io](https://tessl.io/)** ![free](https://img.shields.io/badge/free-22C55E?style=flat) ![paid](https://img.shields.io/badge/paid-EF4444?style=flat)  
   > Plataforma spec-as-source — specs são o artefato principal, agentes geram o código a partir delas. Inclui registry com 10.000+ specs para libs open source
 
-- **[aabs/awesome-specification-driven-development](https://github.com/aabs/awesome-specification-driven-development)**  
+- **[aabs/awesome-specification-driven-development](https://github.com/aabs/awesome-specification-driven-development)** ![open source](https://img.shields.io/badge/open_source-0EA5E9?style=flat)  
   > Awesome list de recursos de SDD
 
-- **[OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)**  
+- **[OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)** ![open source](https://img.shields.io/badge/open_source-0EA5E9?style=flat)  
   > Geração de SDK, stubs e docs a partir de OpenAPI Spec (v2, v3)
 
-- **[cnoe-io/openapi-mcp-codegen](https://github.com/cnoe-io/openapi-mcp-codegen)**  
+- **[cnoe-io/openapi-mcp-codegen](https://github.com/cnoe-io/openapi-mcp-codegen)** ![open source](https://img.shields.io/badge/open_source-0EA5E9?style=flat)  
   > Gera servidores MCP a partir de specs OpenAPI — conecta qualquer API a AI assistants
 
 ### Skills & Config
 
-- **[gotalab/skillport](https://github.com/gotalab/skillport)**  
+- **[gotalab/skillport](https://github.com/gotalab/skillport)** ![open source](https://img.shields.io/badge/open_source-0EA5E9?style=flat)  
   > CLI + MCP para gerenciar e servir skills em qualquer AI agent
 
-- **[FrancyJGLisboa/agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator)**  
+- **[FrancyJGLisboa/agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator)** ![open source](https://img.shields.io/badge/open_source-0EA5E9?style=flat)  
   > Transforma qualquer workflow em SKILL.md instalável em 14+ ferramentas
 
 ---
@@ -184,7 +185,7 @@ Só são adicionadas quando o suporte é confirmado. Veja [BADGES.md](BADGES.md)
 - **[Claude Code](https://claude.ai/code)** ![claude](https://img.shields.io/badge/claude-FF6B35?style=flat) ![free](https://img.shields.io/badge/free-22C55E?style=flat) ![paid](https://img.shields.io/badge/paid-EF4444?style=flat)  
   > CLI oficial da Anthropic para Claude — desenvolvimento agentic no terminal
 
-- **[opencode-ai/opencode](https://github.com/opencode-ai/opencode)** ![opencode](https://img.shields.io/badge/opencode-7C3AED?style=flat) ![free](https://img.shields.io/badge/free-22C55E?style=flat)  
+- **[opencode-ai/opencode](https://github.com/opencode-ai/opencode)** ![opencode](https://img.shields.io/badge/opencode-7C3AED?style=flat) ![open source](https://img.shields.io/badge/open_source-0EA5E9?style=flat)  
   > AI coding agent open-source para o terminal — não está preso a nenhum provider
 
 - **[awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)**  
@@ -199,7 +200,7 @@ Só são adicionadas quando o suporte é confirmado. Veja [BADGES.md](BADGES.md)
 - **[Windsurf](https://windsurf.com/)** ![windsurf](https://img.shields.io/badge/windsurf-00BFA5?style=flat) ![free](https://img.shields.io/badge/free-22C55E?style=flat) ![paid](https://img.shields.io/badge/paid-EF4444?style=flat)  
   > IDE agentic da Codeium
 
-- **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** ![gemini](https://img.shields.io/badge/gemini-4285F4?style=flat) ![free](https://img.shields.io/badge/free-22C55E?style=flat)  
+- **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** ![gemini](https://img.shields.io/badge/gemini-4285F4?style=flat) ![open source](https://img.shields.io/badge/open_source-0EA5E9?style=flat)  
   > AI agent open-source do Google para o terminal
 
 ---

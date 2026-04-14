@@ -39,6 +39,7 @@ Only add a tag when official support is **confirmed**. Do not guess.
 |-----|---------|
 | `free` | Has a free tier |
 | `paid` | Paid only |
+| `open source` | Source code is publicly available and freely modifiable |
 
 ---
 
